@@ -1,0 +1,162 @@
+Name,Emp ID,Gender,Education Qualification,Date of Join,Job Title,Salary,Age,Leave Balance
+Barr Faughny,AC0001,Male,Bachelor's Degree,2020-06-12,Chocolatier,51300.0,26.0,13
+Dennison Crosswaite,AC0002,Female,Diploma,2021-02-18,Production Operator,38300.0,32.7,12
+Gunar Cockshoot,AC0003,Male,High School Diploma,2022-09-05,Packaging Associate,31400.0,34.3,16
+Wilone O'Kielt,AC0004,Female,Bachelor's Degree,2019-11-20,Marketing Specialist,60700.0,29.6,21
+Gigi Bohling,AC0005,Male,Master's Degree,2018-04-08,Research Scientist,77300.0,30.3,23
+Curtice Advani,AC0006,Female,Bachelor's Degree,2023-03-14,Sales Representative,49800.0,37.7,23
+Kaine Padly,AC0007,Male,High School Diploma,2022-01-02,Production Operator,33000.0,31.8,24
+Ches Bonnell,AC0008,Female,Diploma,2020-07-19,Quality Control,41900.0,35.9,17
+Andria Kimpton,AC0009,Male,Bachelor's Degree,2021-11-10,Research Analyst,58100.0,31.0,16
+Brien Boise,AC0010,Female,Master's Degree,2019-06-25,Product Manager,82900.0,31.1,17
+Husein Augar,AC0011,Male,High School Diploma,2022-08-04,Packaging Associate,28900.0,30.3,16
+Karlen McCaffrey,AC0012,Female,Diploma,2020-02-17,Production Operator,37300.0,35.0,11
+Jan Morforth,AC0013,Male,Bachelor's Degree,2021-10-30,Chocolatier,52700.0,28.5,25
+Dotty Strutley,AC0014,Female,Master's Degree,2018-09-12,Marketing Manager,74700.0,52.4,10
+Kelci Walkden,AC0015,Male,Bachelor's Degree,2019-03-05,Research Analyst,55600.0,35.4,12
+Marney O'Breen,AC0016,Female,High School Diploma,2022-05-21,Packaging Associate,32900.0,29.8,17
+Rafaelita Blaksland,AC0017,Female,Diploma,2021-08-08,Quality Control,41500.0,32.3,17
+Madelene Upcott,AC0018,Male,Bachelor's Degree,2020-11-23,Sales Representative,49400.0,31.1,20
+Beverie Moffet,AC0019,Female,Master's Degree,2017-07-15,Product Manager,82700.0,33.5,23
+Oby Sorrel,AC0020,Male,High School Diploma,2022-03-30,Production Operator,38200.0,31.1,16
+Mallorie Waber,AC0021,Female,Diploma,2019-09-04,Packaging Associate,32600.0,31.5,16
+Jehu Rudeforth,AC0022,Male,Bachelor's Degree,2018-06-19,Research Scientist,76800.0,32.7,22
+Van Tuxwell,AC0023,Female,Master's Degree,2021-01-07,Marketing Specialist,62300.0,33.8,23
+Roddy Speechley,AC0024,Male,Bachelor's Degree,2020-08-25,Sales Representative,46200.0,30.1,19
+Camilla Castle,AC0025,Female,High School Diploma,2023-02-12,Packaging Associate,32500.0,63.7,12
+Janene Hairsine,AC0026,Male,Diploma,2022-11-01,Quality Control,43100.0,33.8,16
+Niall Selesnick,AC0027,Female,Bachelor's Degree,2019-04-16,Research Analyst,60000.0,28.8,18
+Ebonee Roxburgh,AC0028,Male,Master's Degree,2018-10-09,Product Manager,82100.0,32.7,14
+Zach Polon,AC0029,Female,High School Diploma,2023-05-26,Production Operator,35900.0,29.9,15
+Orton Livick,AC0030,Male,Diploma,2020-01-13,Packaging Associate,31100.0,27.0,20
+Gray Seamon,AC0031,Female,Bachelor's Degree,2018-07-27,Marketing Manager,74200.0,30.6,27
+Benny Karolovsky,AC0032,Male,Master's Degree,2019-03-14,Research Analyst,57100.0,28.7,13
+Dyna Doucette,AC0033,Female,High School Diploma,2022-09-28,Packaging Associate,35200.0,33.7,21
+Erin Androsik,AC0034,Male,Diploma,2021-04-11,Quality Control,42800.0,31.2,18
+Madge McCloughen,AC0035,Female,Bachelor's Degree,2020-01-26,Sales Representative,46900.0,34.9,16
+Esmaria Denecamp,AC0036,Male,Master's Degree,2017-08-03,Product Manager,80700.0,26.1,13
+Hogan Iles,AC0037,Female,High School Diploma,2023-03-19,Production Operator,36500.0,23.5,17
+Valentia Etteridge,AC0038,Male,Diploma,2022-10-15,Packaging Associate,31900.0,29.6,25
+Archibald Filliskirk,AC0039,Female,Bachelor's Degree,2019-06-10,Chocolatier,52700.0,32.2,16
+Lindy Guillet,AC0040,Male,Master's Degree,2018-05-03,Marketing Specialist,61400.0,37.8,15
+Dell Molloy,AC0041,Female,High School Diploma,2021-09-29,Research Scientist,79300.0,34.9,18
+Ewart Laphorn,AC0042,Male,Diploma,2020-02-14,Sales Representative,49000.0,35.3,13
+Vic Radolf,AC0043,Female,Bachelor's Degree,2023-01-01,Quality Control,44800.0,30.0,17
+Virginia McConville,AC0044,Male,High School Diploma,2022-11-25,Packaging Associate,29700.0,32.3,15
+Kaye Crocroft,AC0045,Female,Diploma,2020-04-09,Production Operator,39700.0,30.0,18
+Mollie Hanway,AC0046,Male,Bachelor's Degree,2021-10-31,Chocolatier,52500.0,55.9,16
+Hoyt D'Alesco,AC0047,Female,Master's Degree,2018-08-14,Marketing Manager,73500.0,62.6,23
+Crissie Cordel,AC0048,Female,Bachelor's Degree,2019-03-27,Research Analyst,57800.0,34.2,14
+Myer McCory,AC0049,Male,High School Diploma,2022-07-12,Packaging Associate,34900.0,30.2,19
+Enoch Dowrey,AC0050,Female,Diploma,2021-04-25,Quality Control,44400.0,31.5,18
+Kissiah Maydway,AC0051,Female,Bachelor's Degree,2020-09-08,Sales Representative,46000.0,53.5,15
+Ambros Murthwaite,AC0052,Female,Master's Degree,2017-04-23,Product Manager,84800.0,34.4,18
+Torrance Collier,AC0053,Male,High School Diploma,2023-02-14,Production Operator,39300.0,37.9,16
+Allene Gobbet,AC0054,Male,Diploma,2022-12-31,Packaging Associate,29000.0,30.4,30
+Violante Courtonne,AC0055,Female,Bachelor's Degree,2019-06-15,Chocolatier,53900.0,32.5,23
+Merrilee Plenty,AC0056,Male,Master's Degree,2018-10-28,Marketing Specialist,63600.0,35.0,10
+Tatum Hush,AC0057,Female,High School Diploma,2021-12-13,Research Scientist,77000.0,36.3,17
+Kath Bletsoe,AC0058,Male,Bachelor's Degree,2020-07-26,Sales Representative,49700.0,30.9,19
+Hinda Label,AC0059,Female,Diploma,2023-06-22,Quality Control,43000.0,33.6,4
+Shari McNee,AC0060,Female,Bachelor's Degree,2019-09-14,Packaging Associate,36200.0,36.0,19
+My Hanscome,AC0061,Male,Master's Degree,2018-04-06,Marketing Manager,70800.0,36.8,18
+Drusy MacCombe,AC0062,Male,High School Diploma,2020-01-19,Research Analyst,55700.0,31.6,22
+Halimeda Kuscha,AC0063,Female,Diploma,2022-07-04,Product Manager,83600.0,33.1,18
+William Reeveley,AC0064,Male,Bachelor's Degree,2021-08-17,Production Operator,39800.0,31.3,15
+Tracy Renad,AC0065,Female,Master's Degree,2018-12-10,Chocolatier,51400.0,33.9,8
+Kassi Jonson,AC0066,Male,High School Diploma,2019-09-23,Marketing Specialist,63100.0,30.2,21
+Constantino Espley,AC0067,Female,Bachelor's Degree,2022-02-15,Research Scientist,76300.0,65.4,16
+Mollie Hanway,AC0068,Female,Diploma,2021-06-29,Sales Representative,47800.0,27.7,19
+Gretchen Callow,AC0069,Male,Bachelor's Degree,2020-03-22,Quality Control,41500.0,33.4,13
+Bev Lashley,AC0070,Female,High School Diploma,2023-01-12,Packaging Associate,33600.0,46.0,16
+Sibyl Dunkirk,AC0071,Male,Diploma,2019-06-05,Production Operator,37000.0,33.0,17
+Trio Lipa,AC0072,Female,Bachelor's Degree,2018-09-28,Research Analyst,56700.0,35.0,14
+Shayne Stegel,AC0073,Male,Master's Degree,2017-04-11,Product Manager,84700.0,34.8,20
+Hyacinthie Braybrooke,AC0074,Female,High School Diploma,2023-02-26,Chocolatier,51300.0,36.3,14
+Agnes Collicott,AC0075,Female,Diploma,2020-07-15,Marketing Manager,74800.0,31.2,20
+Teressa Udden,AC0076,Male,Bachelor's Degree,2019-10-28,Research Scientist,78400.0,31.0,22
+Bennie Pepis,AC0077,Female,High School Diploma,2022-04-13,Sales Representative,48300.0,27.7,20
+Elia Cockton,AC0078,Female,Diploma,2021-05-28,Quality Control,42100.0,35.9,16
+A R Rahadude,AC0079,Female,Bachelor's Degree,2020-06-21,Packaging Associate,36000.0,31.6,17
+Murry Dryburgh,AC0080,Male,Master's Degree,2018-09-04,Production Operator,37700.0,34.8,20
+Mahalia Larcher,AC0081,Female,High School Diploma,2019-08-20,Research Analyst,56900.0,30.5,12
+Bili Sizey,AC0082,Female,Diploma,2022-03-09,Product Manager,81600.0,61.7,6
+Lilyan Klimpt,AC0083,Male,Bachelor's Degree,2021-12-22,Chocolatier,51200.0,42.6,22
+Almond Joy,AC0084,Female,Master's Degree,2019-07-15,Marketing Specialist,61400.0,31.0,15
+Leilah Yesinin,AC0085,Male,High School Diploma,2023-04-27,Research Scientist,76700.0,31.4,16
+Collin Jagson,AC0086,Female,Diploma,2020-05-10,Sales Representative,49800.0,50.3,15
+Kellsie Waby,AC0087,Male,Bachelor's Degree,2021-02-03,Quality Control,43000.0,60.8,24
+Simon Kembery,AC0088,Female,High School Diploma,2022-05-19,Packaging Associate,36200.0,39.8,14
+Tawnya Tickel,AC0089,Male,Diploma,2019-08-14,Production Operator,36400.0,38.3,20
+Bernie Gorges,AC0090,Female,Bachelor's Degree,2018-11-27,Chocolatier,54900.0,31.6,17
+Florinda Crace,AC0091,Male,Master's Degree,2017-06-10,Marketing Manager,74200.0,30.7,17
+Oran Buxcy,AC0092,Male,High School Diploma,2023-03-19,Research Analyst,58700.0,47.3,6
+Anvi Verma,AC0093,Female,Diploma,2020-09-02,Product Manager,81100.0,34.6,16
+Zara Mishra,AC0094,Female,Bachelor's Degree,2019-07-17,Production Operator,38300.0,33.7,14
+Dev Joshi,AC0095,Male,Master's Degree,2018-12-10,Chocolatier,51100.0,36.2,15
+Pari Sharma,AC0096,Female,High School Diploma,2023-05-04,Marketing Specialist,63500.0,28.5,20
+Aanya Kapoor,AC0097,Female,Bachelor's Degree,2021-10-28,Research Scientist,78900.0,30.3,17
+Kiara Choudhary,AC0098,Female,Diploma,2020-02-12,Sales Representative,46000.0,38.0,21
+Reyansh Iyer,AC0099,Male,Bachelor's Degree,2019-05-27,Quality Control,44400.0,35.1,16
+Samaira Agarwal,AC0100,Female,High School Diploma,2022-12-12,Packaging Associate,36200.0,39.5,24
+Avani Malhotra,AC0101,Female,Diploma,2021-04-26,Production Operator,38800.0,31.9,20
+Kiaan Rana,AC0102,Male,Bachelor's Degree,2018-09-09,Research Analyst,57800.0,36.6,15
+Aarav Shah,AC0103,Male,Master's Degree,2017-10-31,Product Manager,82800.0,51.8,20
+Anaya Gupta,AC0104,Female,High School Diploma,2023-01-15,Chocolatier,53900.0,35.6,15
+Munch Munch,AC0105,Male,Diploma,2020-06-28,Marketing Manager,73900.0,30.1,12
+Siya Trivedi,AC0106,Female,Bachelor's Degree,2019-09-11,Research Scientist,76100.0,28.0,16
+Kabir Kapoor,AC0107,Male,High School Diploma,2022-03-04,Sales Representative,45500.0,29.3,14
+Rhea Saxena,AC0108,Female,Diploma,2021-06-17,Quality Control,44600.0,36.8,10
+Advait Sharma,AC0109,Male,Bachelor's Degree,2018-11-30,Packaging Associate,36100.0,27.2,8
+Aarush Mishra,AC0110,Male,Master's Degree,2017-07-23,Production Operator,35500.0,29.6,24
+Anika Chawla,AC0111,Female,High School Diploma,2023-05-11,Research Analyst,58000.0,33.0,13
+Zara Verma,AC0112,Female,Diploma,2020-10-24,Product Manager,81400.0,35.2,19
+Dev Agarwal,AC0113,Male,Bachelor's Degree,2019-04-15,Chocolatier,51000.0,34.8,22
+Pari Kumar,AC0114,Female,Master's Degree,2018-09-08,Marketing Specialist,61600.0,31.4,15
+Aanya Singh,AC0115,Female,High School Diploma,2021-11-29,Research Scientist,77100.0,31.7,9
+Kiara Joshi,AC0116,Female,Diploma,2020-07-13,Sales Representative,47900.0,31.7,9
+Reyansh Malhotra,AC0117,Male,Bachelor's Degree,2019-03-28,Quality Control,43000.0,28.2,17
+M&M Peanut,AC0118,Female,High School Diploma,2022-08-12,Packaging Associate,35100.0,35.7,21
+Avani Agarwal,AC0119,Female,Diploma,2021-05-25,Production Operator,39700.0,31.1,16
+Nestle Crunch,AC0120,Male,Bachelor's Degree,2018-10-18,Research Analyst,59200.0,30.9,18
+Aarav Verma,AC0121,Male,Master's Degree,2017-05-11,Product Manager,85000.0,65.1,5
+Anaya Choudhary,AC0122,Female,High School Diploma,2023-01-26,Chocolatier,52700.0,29.5,10
+Krish Trivedi,AC0123,Male,Diploma,2020-07-09,Marketing Manager,74900.0,33.8,11
+Siya Rawat,AC0124,Female,Bachelor's Degree,2019-10-01,Research Scientist,77500.0,30.3,14
+Kabir Shah,AC0125,Male,High School Diploma,2022-02-14,Sales Representative,45900.0,37.4,16
+Rhea Bhatia,AC0126,Female,Diploma,2021-07-29,Quality Control,45000.0,36.3,2
+Advait Kumar,AC0127,Male,Bachelor's Degree,2018-11-21,Packaging Associate,33100.0,34.3,9
+Aarush Verma,AC0128,Male,Master's Degree,2017-06-14,Production Operator,37600.0,37.9,18
+Anika Singh,AC0129,Female,High School Diploma,2023-01-07,Research Analyst,58300.0,29.4,16
+Zara Chawla,AC0130,Female,Diploma,2020-07-30,Product Manager,83900.0,31.4,14
+Dev Joshi,AC0131,Male,Bachelor's Degree,2019-12-23,Chocolatier,51100.0,33.7,16
+Pari Gupta,AC0132,Female,Master's Degree,2018-09-16,Marketing Specialist,62900.0,36.8,15
+Aanya Trivedi,AC0133,Female,High School Diploma,2022-02-07,Research Scientist,79200.0,31.4,14
+Kiara Bhatia,AC0134,Female,Diploma,2021-06-22,Sales Representative,47000.0,32.3,22
+Reyansh Rana,AC0135,Male,Bachelor's Degree,2020-09-15,Quality Control,42400.0,66.2,19
+Lindt Truffle,AC0136,Female,High School Diploma,2019-11-28,Packaging Associate,33800.0,66.7,8
+Avani Iyer,AC0137,Female,Diploma,2023-01-12,Production Operator,36000.0,31.0,18
+Kiaan Shah,AC0138,Male,Bachelor's Degree,2021-05-05,Research Analyst,58500.0,31.3,23
+Oreo Delight,AC0139,Male,Master's Degree,2018-09-28,Product Manager,83200.0,31.6,9
+Anaya Agarwal,AC0140,Female,High School Diploma,2022-05-11,Chocolatier,51100.0,32.5,10
+Krish Rawat,AC0141,Male,Diploma,2021-09-24,Marketing Manager,73200.0,30.6,12
+Siya Sharma,AC0142,Female,Bachelor's Degree,2020-12-17,Research Scientist,77800.0,28.9,6
+Kabir Trivedi,AC0143,Male,High School Diploma,2023-02-08,Sales Representative,45500.0,36.1,20
+Rhea Malhotra,AC0144,Female,Diploma,2021-07-24,Quality Control,41800.0,31.1,18
+Advait Kapoor,AC0145,Male,Bachelor's Degree,2019-11-17,Packaging Associate,32600.0,28.6,37
+Zagnut Nut,AC0146,Male,Master's Degree,2018-10-10,Production Operator,37600.0,30.8,9
+Anika Joshi,AC0147,Female,High School Diploma,2020-02-03,Research Analyst,59500.0,61.1,18
+Zara Verma,AC0148,Female,Diploma,2019-07-27,Product Manager,82400.0,33.8,14
+Dev Chawla,AC0149,Male,Bachelor's Degree,2021-11-20,Chocolatier,51300.0,32.7,23
+Pari Gupta,AC0150,Female,Master's Degree,2020-05-13,Marketing Specialist,61200.0,44.1,14
+Aanya Singh,AC0151,Female,High School Diploma,2019-08-06,Research Scientist,78200.0,27.6,21
+Kiara Bhatia,AC0152,Female,Diploma,2023-03-01,Sales Representative,48100.0,37.2,16
+Reyansh Rana,AC0153,Male,Bachelor's Degree,2021-05-25,Quality Control,44000.0,30.9,15
+Eltin John,AC0154,Female,High School Diploma,2020-09-17,Packaging Associate,36000.0,26.0,15
+Avani Iyer,AC0155,Female,Diploma,2019-12-10,Production Operator,37400.0,46.2,20
+Kiaan Shah,AC0156,Male,Bachelor's Degree,2018-11-03,Research Analyst,57100.0,33.9,16
+Michael Walkson,AC0157,Male,Master's Degree,2017-11-26,Product Manager,82300.0,34.4,18
+Anaya Agarwal,AC0158,Female,High School Diploma,2023-04-09,Chocolatier,52900.0,30.5,8
+Krish Rawat,AC0159,Male,Diploma,2020-06-02,Marketing Manager,71100.0,31.6,13
+Siya Sharma,AC0160,Female,Bachelor's Degree,2019-08-26,Research Scientist,76900.0,33.2,17
+Kabir Trivedi,AC0161,Male,High School Diploma,2022-03-19,Sales Representative,46400.0,37.1,11
